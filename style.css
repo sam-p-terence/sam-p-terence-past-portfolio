@@ -28,6 +28,8 @@
     color: white;
 } */
 
-#navbarSupportedContent {
+.navbar-nav ms-auto {
     color: white;
+    
 }
+
